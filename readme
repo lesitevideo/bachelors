@@ -1,4 +1,4 @@
-0. pré-requis : installez nodejs sur votre ordi
+0. pré-requis : installez nodejs sur votre ordi => https://nodejs.org/en/
 1. Telechargez le contenu du dossier trailblazer dans votre dossier de travail en local
 2. Installez les dépendances => npm install
 3. lancez le jeu => node index.js
