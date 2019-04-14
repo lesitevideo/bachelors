@@ -1,3 +1,8 @@
+A- découverte de threejs : https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
+1. Copiez three.js sur votre ordi, dans un dossier de travail : https://threejs.org/build/three.js
+2. https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
+
+B- threejs en front, nodejs en back
 0. pré-requis : installez nodejs sur votre ordi => https://nodejs.org/en/
 1. Telechargez le contenu du dossier trailblazer dans votre dossier de travail local
 2. Installez les dépendances => npm install
